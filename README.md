@@ -1,6 +1,4 @@
-## Hello! I am Humberto Teixeira 👋
-
-#### Contacts:
+\#### Contacts:
 
 <div>
   <a href="https://linktree-humberto.netlify.app/index.html" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
